@@ -26,6 +26,3 @@ Once the development server is running, you can integrate speech-to-text convers
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request or open an issue on GitHub.
 
-## Acknowledgements
-
-Special thanks to the creators and maintainers of **react-speech-recognition** and **react-use-clipboard** for providing the foundation for this project's speech recognition and clipboard functionalities.
